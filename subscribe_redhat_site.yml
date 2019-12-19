@@ -6,7 +6,7 @@
       redhat_subscription:
         state: present
         username: hhouissa1@gmail.com
-        password: Hell0Fr@nce2019
+        password: ************
         auto_attach: true
 ##
 ##    - name: Enable all repositories starting with rhel-6-server
